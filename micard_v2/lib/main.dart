@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
                   Container(
                     color: Colors.yellowAccent,
                     height: 100.0,
-                    width: 100.0,
+                    width: 100.05,
                   ),
                   Container(
                     color: Colors.green,
